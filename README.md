@@ -22,7 +22,7 @@ The years of Experience column was replaced with categorical values
   Veteran - 31-40years
   Master - 41 years or more
 Null values were removed
-This is the cleaned data [[Ask A Manager Salary Survey 2021 (Responses).xlsx](https://github.com/Oladipupo34/Data-Cleaning-with-PowerQuery/files/14812774/Ask.A.Manager.Salary.Survey.2021.Responses.xlsx) ](https://1drv.ms/x/c/8317544c38acd386/ES0ZRyNXR_5Jih1B4GDiVDABO9_V5N8q_f9xeVz_xlwzlg)
+This is the cleaned data (https://1drv.ms/x/c/8317544c38acd386/ES0ZRyNXR_5Jih1B4GDiVDABO9_V5N8q_f9xeVz_xlwzlg)
 
 all the string columns were trimmed
 
